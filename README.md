@@ -6,10 +6,10 @@
 :construction_worker_man: DEVELOPMENTS AHEAD
 
 ```
-[x] v0.1 - Mark up and API integration<br />
-[ ] v0.2 - Scraping twitter data for weather sentiments of the same location<br />
-[ ] v0.3 - Filtering weather sentiments categorically<br />
-[ ] v0.4 - Integrating sentiment data into front end of WeatherEye<br />
+[x] v0.1 - Mark up and API integration
+[ ] v0.2 - Scraping twitter data for weather sentiments of the same location
+[ ] v0.3 - Filtering weather sentiments categorically
+[ ] v0.4 - Integrating sentiment data into front end of WeatherEye
 ```
 ---
 ### Dependencies 
