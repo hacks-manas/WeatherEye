@@ -1,7 +1,8 @@
 # WeatherEye v0.1
 Web application that displays weather data of a geolocation and sentiments for the same.
-
 > Tech stack : HTML 5.0, CSS3, JS + Python3 (future versions)
+
+- What it looks like : ![display 0.1](/assets/0-1.png)
 
 ## How to use
 - Get a valid API key from : openweathermap.com
