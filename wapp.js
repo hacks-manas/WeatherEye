@@ -1,5 +1,5 @@
 let weather = {
-  apiKey: "APIKEYGOESHERE",
+  apiKey: "KEY GOES HERE",
   fetchWeather: function (city) {
     fetch(
       "https://api.openweathermap.org/data/2.5/weather?q=" +
@@ -34,10 +34,7 @@ let weather = {
       "Humidity: " + humidity + "%";
     document.querySelector(".wind").innerText =
       "Wind speed: " + speed + " km/h";
-
     document.querySelector(".weather").classList.remove("loading");
-    document.body.style.backgroundImage =
-      "url('https://source.unsplash.com/1600x900/?" + "Florida weather" + "')";
   },
 
   search: function () {
@@ -61,4 +58,4 @@ document
   });
 
 /* Default location is set to Florida to avoid garbage data */
-weather.fetchWeather("Florida");
+weather.fetchWeather("California");
