@@ -16,8 +16,8 @@ Web application that displays weather data of a geolocation and sentiments for t
 
 :construction_worker_man: DEVELOPMENTS AHEAD
 
-~~[ ] v0.2 - Scraping twitter data for weather sentiments of the same location~~ __
-~~[ ] v0.3 - Filtering weather sentiments categorically~~ __
+~~[ ] v0.2 - Scraping twitter data for weather sentiments of the same location~~__
+~~[ ] v0.3 - Filtering weather sentiments categorically~~__
 
 ---
 > The concept for scraping twitter is flawed : 
