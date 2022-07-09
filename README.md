@@ -12,14 +12,13 @@ Web application that displays weather data of a geolocation and sentiments for t
 - Insert your valid key and open the html in your browser 
 
 ---
-## Future Upgrades
+## Update Tracker
 
 :construction_worker_man: DEVELOPMENTS AHEAD
-```
-[x] v0.1 - Mark up and API integration
+
 ~~[ ] v0.2 - Scraping twitter data for weather sentiments of the same location~~
 ~~[ ] v0.3 - Filtering weather sentiments categorically~~
-```
+
 ---
 > The concept for scraping twitter is flawed : 
 - Twitter does not contain enough data to sentiment analyze about a certain location on a certain date.
@@ -31,6 +30,7 @@ Web application that displays weather data of a geolocation and sentiments for t
 ---
 
 ```
+[x] v0.1 - Mark up and API integration
 [ ] v0.2 - Switching APIs : openweather to accu weather
 [ ] v0.3 - Front end for response form
 [ ] v0.4 - Back end for response form
@@ -38,8 +38,8 @@ Web application that displays weather data of a geolocation and sentiments for t
 [ ] v0.6 - Layout Change
 [ ] v0.7 - Testing components
 [ ] v0.9b - Launching test website on gitpages
-[ ] :rocket:
 ```
+[ ] :rocket:
 
 ---
 ### Dependencies 
