@@ -14,7 +14,7 @@ Web application that displays weather data of a geolocation and sentiments for t
 ---
 ## Future Upgrades
 :construction_worker_man: DEVELOPMENTS AHEAD
-```
+
 [x] v0.1 - Mark up and API integration
 ~~[ ] v0.2 - Scraping twitter data for weather sentiments of the same location~~
 ~~[ ] v0.3 - Filtering weather sentiments categorically~~
@@ -35,7 +35,7 @@ Web application that displays weather data of a geolocation and sentiments for t
 [ ] v0.7 - Testing components
 [ ] v0.9b - Launching test website on gitpages
 [ ] :rocket:
-```
+
 
 ---
 ### Dependencies 
