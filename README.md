@@ -45,7 +45,7 @@ Web application that displays weather data of a geolocation and sentiments for t
 ### Dependencies 
 
 - Weather API : 
-  - https://api.openweathermap.org/data/2.5/weather?q
+  - ~~https://api.openweathermap.org/data/2.5/weather?q~~
 - Google Fonts API : 
   - https://fonts.gstatic.com
   - https://fonts.googleapis.com
