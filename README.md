@@ -1,4 +1,4 @@
-# WeatherEye v0.1
+# WeatherEye v0.1 : https://hacks-manas.github.io/WeatherEye/
 Web application that displays weather data of a geolocation and sentiments for the same.
 > Tech stack : HTML 5.0, CSS3, JS 
 
