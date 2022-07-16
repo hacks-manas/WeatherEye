@@ -1,4 +1,4 @@
-# WeatherEye v0.1
+# WeatherEye v0.1 : https://hacks-manas.github.io/WeatherEye/
 Web application that displays weather data of a geolocation and sentiments for the same.
 > Tech stack : HTML 5.0, CSS3, JS 
 
@@ -24,6 +24,8 @@ Web application that displays weather data of a geolocation and sentiments for t
 - Twitter does not contain enough data to sentiment analyze about a certain location on a certain date.
 - The data might occasionally contain weather related accidents thus making the model prone to outliers.
 - There would be a lot many filters to deal with turning the project into a ML project
+
+> A more interesting take would be to play music similar to weather
 
 > Also switching the API from openweather to accu weather 
 - It offers better results (as tested)
