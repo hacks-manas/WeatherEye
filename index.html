@@ -1,32 +1,34 @@
-<!-- Weather Eye v0.1 -->
+<!-- Weather Eye v0.2 -->
 
-<!-- 
-  -- Using icons/images from online sources and library
-  -- No assets stored locally
- -->
 <!DOCTYPE html>
 <html lang="en">
 
-<!--
-  -- Use viewport in v0.1 to scale to devices, ***renewal in v0.3 
-  -- Using google fonts to enusre cross compatability amongst all browsers
- -->
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>WeatherEye</title>
+
+  <!-- Remote CSS sheets-->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script src="./wapp.js" defer></script>
+
+  <!-- Local stylesheets -->
+  <link rel="stylesheet" href="styles/stylesheet.css">
+
+  <!-- Defer : Load script on page parse and execute on fully parsed -->
+  <script src="scripts/wapp.js" defer></script>
+  <script src="scripts/todo.js" defer></script>
+  <script src="scripts/bgmusic.js" defer></script>
+
 </head>
 
 <!-- 
   -- Search Icons and Product Icon from svg/html library 
   -- Weather Card : Placeholders - when data has not been requested
-  -- Sentiment Card : upcoming feature
  -->
+
 <body>
   <div class="product">
     <span> WeatherEye</span> <i class="fa fa-eye" style="font-size:36px"></i>
@@ -60,10 +62,19 @@
       </div>
     </div>
 
-    <!-- <div class="card">
-      Fetching Weather Sentiments...
-    </div> -->
-  </div>
+    <!-- DOM : To-Do list -->
+    <div class="card">
+      <div id="toDo" class="header">
+        <h3 style="margin: 3px">To-Do</h3>
+        <input type="text" id="toDoInput" placeholder="Add Task...">
+        <span onclick="newElement()" class="toDoAdd">Add to List</span>
+      </div>
+      <ul id="toDoList">
+        <li>However the Day ☁</li>
+        <li>Plan the Day ! 🚀</li>
+        <li>With WeatherEye 👁</li>
+      </ul>
+    </div>
 </body>
 
 </html>
