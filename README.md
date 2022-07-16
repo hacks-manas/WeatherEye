@@ -1,2 +1,5 @@
 # WeatherEye
-Shows location-weather and feedback of other users.
+Shows location-weather and changes background wallpaper accordingly
+
+## Dependencies
+- OpenWeather API 
