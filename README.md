@@ -1,8 +1,10 @@
-# WeatherEye 
+# WeatherEye  : [WeatherEye.io](https://hacks-manas.github.io/WeatherEye/) :eye:
 Shows location-weather and changes background wallpaper accordingly
 
 ## Dependencies
 - OpenWeather API 
+- GoogleFont API
+- FontAwesome 6.1.1 CSS Library 
 
 # WeatherEye v0.1 : 
 Web application cum productivity app for general use
@@ -13,7 +15,7 @@ Web application cum productivity app for general use
 
 
 ## How to use
-- Visit [WeatherEye.io](https://hacks-manas.github.io/WeatherEye/) :eye:
+
 
 - What it should look like : ![display 0.1](/assets/readme-assets/images/version-1.png)
 
@@ -30,7 +32,7 @@ Web application cum productivity app for general use
 - [x] v0.1 - Mark up and API integration
 - [x] v0.1b - Launching test website on gitpages
 - [ ] v0.2 - Add To-Do list
-- [ ] v0.3 - Add Music Player
+- [x] v0.3 - Add Music Player
 - [ ] v0.4 - Revamp UI
 - [ ] v0.5 - Switching APIs : openweather to accu weatherLayout Change
 - [ ] v0.7 - Testing components
