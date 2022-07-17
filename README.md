@@ -20,7 +20,7 @@ Web application cum productivity app for general use
 * Search location keywords using the left panel
 * Create your own To-Do list using the right panel
 
-- What it should look like : ![display 0.1](/assets/readme-assets/images/version-2.png)
+- What it should look like : ![display v0.3](/assets/readme-assets/images/version-3.png)
 
 ## Why did I build this ?
 - Wanted to develop and learn about web apps.
