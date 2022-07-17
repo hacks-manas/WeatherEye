@@ -17,7 +17,7 @@ Web application cum productivity app for general use
 ## How to use
 
 
-- What it should look like : ![display 0.1](/assets/readme-assets/images/version-1.png)
+- What it should look like : ![display 0.1](/assets/readme-assets/images/version-2.png)
 
 ## Why did I build this ?
 - Wanted to develop and learn about web apps.
