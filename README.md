@@ -1,5 +1,5 @@
 # WeatherEye  : [WeatherEye.io](https://hacks-manas.github.io/WeatherEye/) :eye:
-Shows location-weather and changes background wallpaper accordingly
+Shows location-weather data, with bgm music and a to do list
 
 ## Dependencies
 - OpenWeather API 
@@ -10,12 +10,15 @@ Shows location-weather and changes background wallpaper accordingly
 Web application cum productivity app for general use
 * Displays weather data for a location :foggy:
 * Quick to do list for quick notedown :memo:
-* Music collection to focus :notes:
+* Music to focus :notes:
 > Tech stack : HTML 5.0, CSS3, JS 
-
+> Might look botched on mobile displays
+> Responsive design yet to be added
 
 ## How to use
-
+* Play background music using the play button on top left
+* Search location keywords using the left panel
+* Create your own To-Do list using the right panel
 
 - What it should look like : ![display 0.1](/assets/readme-assets/images/version-2.png)
 
@@ -31,9 +34,9 @@ Web application cum productivity app for general use
 
 - [x] v0.1 - Mark up and API integration
 - [x] v0.1b - Launching test website on gitpages
-- [ ] v0.2 - Add To-Do list
+- [x] v0.2 - Add To-Do list
 - [x] v0.3 - Add Music Player
-- [ ] v0.4 - Revamp UI
+- [ ] v0.4 - Revamp UI + Responsive
 - [ ] v0.5 - Switching APIs : openweather to accu weatherLayout Change
 - [ ] v0.7 - Testing components
 
