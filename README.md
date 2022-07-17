@@ -36,12 +36,7 @@ Web application cum productivity app for general use
 - [x] v0.1b - Launching test website on gitpages
 - [x] v0.2 - Add To-Do list
 - [x] v0.3 - Add Music Player
-<<<<<<< HEAD
 - [ ] v0.4 - Revamp UI + Responsive
-=======
-- [ ] v0.4 - Revamp UI
-- [ ] v0.4b - Revamp to responsive design
->>>>>>> fbd312d4bd918ad8eca38b025288b26f457f3b35
 - [ ] v0.5 - Switching APIs : openweather to accu weatherLayout Change
 - [ ] v0.7 - Testing components
 
