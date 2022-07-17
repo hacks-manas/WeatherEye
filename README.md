@@ -34,7 +34,7 @@ Web application cum productivity app for general use
 - [ ] v0.2 - Add To-Do list
 - [x] v0.3 - Add Music Player
 - [ ] v0.4 - Revamp UI
-- [ ] v0.4b - Revamp responsive design
+- [ ] v0.4b - Revamp to responsive design
 - [ ] v0.5 - Switching APIs : openweather to accu weatherLayout Change
 - [ ] v0.7 - Testing components
 
