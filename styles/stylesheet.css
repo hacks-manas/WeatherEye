@@ -49,19 +49,6 @@ body {
   justify-content: center;
 }
 
-button {
-  margin: 0.5em;
-  border-radius: 50%;
-  border: none;
-  height: 44px;
-  width: 44px;
-  outline: none;
-  background: #7c7c7c2b;
-  color: white;
-  cursor: pointer;
-  transition: 0.2s ease-in-out;
-}
-
 input.search-bar {
   border: none;
   outline: none;
@@ -74,7 +61,22 @@ input.search-bar {
   width: calc(100% - 100px);
 }
 
-button:hover {
+#searchbutton {
+  margin: 0.5em;
+  border-radius: 50%;
+  border: none;
+  height: 44px;
+  width: 44px;
+  outline: none;
+  background: #7c7c7c2b;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+
+
+#searchbutton:hover {
   background: #7c7c7c6b;
 }
 
@@ -107,4 +109,3 @@ h1.temp {
   top: 0;
   left: 20px;
 }
-
