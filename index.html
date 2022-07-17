@@ -71,15 +71,16 @@
 
     <!-- DOM : To-Do list -->
     <div class="card">
-      <div id="toDo" class="header">
-        <h3 style="margin: 3px">To-Do</h3>
-        <input type="text" id="toDoInput" placeholder="Add Task...">
-        <span onclick="newElement()" class="toDoAdd">Add to List</span>
+      <div id="myDIV" class="header">
+        <input type="text" id="myInput" placeholder="Item title ...">
+        <span onclick="newElement()" class="addBtn">Add</span>
       </div>
-      <ul id="toDoList">
-        <li>Whatever the Weather ☁</li>
-        <li>Plan the Day ! 🚀</li>
-        <li>With WeatherEye <i class="fa fa-eye" style="font-size:14px"></i></li>
+
+      <ul id="myUL">
+        <li class="checked">Whatever the Weather ! <i class="fa-solid fa-smog"></i></li>
+        <li>Plan your day <i class="fa-solid fa-pen-to-square"></i></li>
+        <li>With WeatherEye <i class="fa fa-eye" style="font-size:18px"></i> </li>
+        <li>Made with <i class="fa-regular fa-heart" style="color:red;"></i> by Manas</li>
       </ul>
     </div>
 </body>
